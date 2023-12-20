@@ -1,0 +1,95 @@
+#title
+{
+    background-color: #ECF4D6;
+    position: relative;
+    z-index: 0;
+}
+
+.container-fluid
+{
+    padding: 3% 15%;
+} 
+
+h1
+{
+    font-family: 'Young Serif', serif;
+    font-weight: bold;
+    font-size: 4rem;
+    line-height: 1.5;
+    color: #265073;
+}
+
+.navbar .navbar-brand, .navbar .navbar-nav .nav-link 
+{
+    color: #265073;
+}
+
+h2
+{
+    color: #265073;
+    text-align: center;
+    font-family: 'Young Serif', serif;
+    font-weight: bold;
+}
+
+#introduction
+{
+    padding: 3% 15%;
+    background-color: #b2cbc4;
+}
+
+h5
+{
+    color: #265073;
+    text-align: center;
+    font-family: 'Young Serif', serif;
+}
+
+#experience
+{
+    background-color: #ECF4D6;
+    padding: 3% 15%;
+}
+
+.card
+{
+    background-color: #b2cbc4;
+    font-family: 'Young Serif', serif;
+    color: #265073;
+    text-align: center;
+}
+
+#text
+{
+    padding: 3% 3%;
+}
+
+#certifications
+{
+    background-color: #ECF4D6;
+    padding: 3% 15%;
+}
+
+#contact
+{
+    background-color: #b2cbc4; 
+    padding: 3% 15%;
+}
+
+#contact
+{
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.social-icon
+{
+    margin: 20px 10px;
+    color: #265073;
+}
+
+#project-card
+{
+    padding: 3% 15%;
+    background-color: #b2cbc4;
+}
